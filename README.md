@@ -1,15 +1,19 @@
-# 🔢 Modern Python Calculator (GUI)
+🔢 Modern Python Calculator (GUI) :
+Experience the elegance of coding with this sleek, modern calculator built using Python’s tkinter library. Designed with both style and functionality in mind, this GUI calculator brings everyday calculations to life in a visually pleasing way.
 
-This is a beautiful, functional calculator built using Python's tkinter library. It includes standard arithmetic features in a clean, modern layout.
+✨ Key Features :
+🎨 Sleek Dark Mode Interface – Minimalist and easy on the eyes
 
-# ✨ Features
+➕ Standard Arithmetic Operations – Perform addition, subtraction, multiplication, division, and modulo (+, -, *, /, %)
 
-- Stylish dark mode interface
-- Operations: `+`, `-`, `*`, `/`, `%`
-- Backspace and clear buttons
-- Easy-to-read font and layout
+⌫ Backspace & Clear – Easily undo or reset calculations
 
-# 🚀 Run the App
+🔠 Clean Typography – Bold, easy-to-read fonts for better usability
 
-```bash
+🖱️ User-Friendly Layout – Responsive and intuitive button design
+
+🚀 How to Run the App:
+
+To launch the calculator, simply open your terminal or command prompt and run 👇
 python modern_calculator.py
+
