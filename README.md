@@ -16,4 +16,3 @@ Experience the elegance of coding with this sleek, modern calculator built using
 
 To launch the calculator, simply open your terminal or command prompt and run 👇
 python modern_calculator.py
-
