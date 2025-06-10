@@ -15,4 +15,4 @@ Experience the elegance of coding with this sleek, modern calculator built using
 🚀 How to Run the App:
 
 To launch the calculator, simply open your terminal or command prompt and run 👇
-modern_calculator.py 
+modern_calculator.py
